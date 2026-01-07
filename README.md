@@ -31,7 +31,7 @@ Open **http://localhost:8501** and fill out the form to get your nomophobia scor
 - **app.py** — Interactive web application
 - **Nomophobia_Score_Predictor.ipynb** — Data analysis & model training
 - **Nomophobia.csv** — Dataset (605 MJPRU student responses)
-- **requirements.txt** — Dependencies
+- **README** — Documentation
 
 ## Tech Stack
 
